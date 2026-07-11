@@ -15,7 +15,7 @@ My interests include software engineering, database systems, machine learning, c
 - 🎓 Postgraduate Diploma (PGD) in Information Technology – National Open University of Nigeria
 - 🎓 B.Sc. Mathematics & Economics – University of Benin
 - 💻 Software Developer
-- 📊 Data Analysis Enthusiast
+- 📊 Data Science Enthusiast
 - 🔍 Passionate about Artificial Intelligence and Machine Learning
 - 🌱 Continuously learning and improving my technical skills
 
