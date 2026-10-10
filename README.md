@@ -86,7 +86,7 @@ A machine learning project that analysed historical COVID-19 data to predict dis
 
 - GitHub: https://github.com/Prince-Edwin
 - Email: amanzeedwin@gmail.com
-- LinkedIn: https://www.linkedin.com/in/edwin-amanze
+- www.linkedin.com/in/edwin-amanze-875b00292
 
 ---
 
